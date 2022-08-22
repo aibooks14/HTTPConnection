@@ -1,0 +1,28 @@
+https://openjdk.org/groups/net/httpclient/recipes.html#jsonPost
+
+//Making Json Request Using HTTP Connect
+//https://www.baeldung.com/java-connect-via-proxy-server
+
+https://www.baeldung.com/java-connect-via-proxy-server
+
+
+//Json Object Creation in spring boot
+https://www.baeldung.com/java-org-json
+
+
+//Introduction of Jackson :- Object Mapper
+	compile 'com.fasterxml.jackson.core:jackson-core:2.6.3'
+    compile 'com.fasterxml.jackson.core:jackson-annotations:2.6.3'
+    compile 'com.fasterxml.jackson.core:jackson-databind:2.6.3'
+
+https://www.baeldung.com/jackson-object-mapper-tutorial
+
+
+
+HTTP Connection
+https://qiita.com/Hyman1993/items/bdf5500acff17f2b4840
+
+//Https Conenection code
+https://stackoverflow.com/questions/6467848/how-to-get-http-response-code-for-a-url-in-java
+https://web.plus-idea.net/2016/08/httpurlconnection-post-get-proxy-sample/
+https://stackoverflow.com/questions/4205980/java-sending-http-parameters-via-post-method-easily
